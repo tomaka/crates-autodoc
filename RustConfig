@@ -1,0 +1,5 @@
+URL="https://static-rust-lang-org.s3.amazonaws.com/dist/2014-11-24/rust-nightly-x86_64-unknown-linux-gnu.tar.gz"
+VERSION="2014-11-24"
+
+CARGO_URL="https://static.rust-lang.org/cargo-dist/cargo-nightly-x86_64-unknown-linux-gnu.tar.gz"
+CARGO_VERSION="2014-11-25"

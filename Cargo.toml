@@ -1,0 +1,13 @@
+[package]
+
+name = "crates-autodoc"
+version = "0.0.1"
+authors = ["Pierre Krieger <pierre.krieger1708@gmail.com>"]
+description = "Website that automatically generates documentation for Rust crates."
+
+[[bin]]
+name = "server"
+path = "bin/main.rs"
+
+[dependencies]
+iron = "*"
