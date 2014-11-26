@@ -11,3 +11,6 @@ path = "bin/main.rs"
 
 [dependencies]
 iron = "*"
+
+[dependencies.cargo]
+git = "https://github.com/rust-lang/cargo"
