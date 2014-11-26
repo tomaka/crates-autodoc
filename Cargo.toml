@@ -12,5 +12,8 @@ path = "bin/main.rs"
 [dependencies]
 iron = "*"
 
+[dependencies.router]
+git = "https://github.com/iron/router.git"
+
 [dependencies.cargo]
 git = "https://github.com/rust-lang/cargo"
